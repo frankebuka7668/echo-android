@@ -14,7 +14,8 @@
         android:name=".EchoApp"
         android:allowBackup="false"
         android:label="ECHO"
-        android:supportsRtl="true">
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ECHO">
 
         <activity
             android:name=".MainActivity"
@@ -67,4 +68,3 @@
     </application>
 
 </manifest>
-          
